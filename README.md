@@ -1,2 +1,2 @@
-# NySQL-Kaggle
+# MySQL-Kaggle
 MySQL course from Kaggle.
